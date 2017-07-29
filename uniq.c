@@ -1,2 +1,2 @@
-#################################
-# uniq - check sha against master
+//////////////////////////////////
+// uniq - check sha against master
