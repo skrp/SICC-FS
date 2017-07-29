@@ -26,3 +26,8 @@ build.c     - use recipe to build blocks into file
 # NET ROUTINES #########################################
 update_master.c - send new pool list
 update_slave.c  - recieve new master list
+p2p.c           - peer-to-peer interaction (mailinglist)
+
+# PROOFS ###############################################
+stats      - stats per node
+stats_all  - overall stats
