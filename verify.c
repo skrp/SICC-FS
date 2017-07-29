@@ -1,2 +1,2 @@
-####################################
-# verify - compare block name to sha
+/////////////////////////////////////
+// verify - compare block name to sha
