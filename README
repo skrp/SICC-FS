@@ -10,3 +10,6 @@ Obfuscation
 Recipes compile certain files
   Key files contained sequential block list
 
+# TREE #################################################
+/pool/sea - data blocks
+/mnt/usb/key - key file-recipes
