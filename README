@@ -13,3 +13,11 @@ Recipes compile certain files
 # TREE #################################################
 /pool/sea - data blocks
 /mnt/usb/key - key file-recipes
+
+# POOL ROUTINES #############################################
+assim.c    - 
+verify.c   -
+
+# KEY ROUTINES ##############################################
+io.c       - 
+build.c    -
