@@ -21,13 +21,13 @@ Recipes compile certain files
 /mnt/usb/key - key file-recipes
 
 # POOL ROUTINES ########################################
-uniq.c     - verify file uniqness
 assim.c    - seperate metadata from block 
 verify.c   - compare name to sha
 
 # KEY ROUTINES #########################################
-io.pl       - input output interface of metadata to return block lists
+io.c       - input output interface of metadata to return block lists
 build.c     - use recipe to build blocks into file
+uniq.c     - verify file uniqness
 
 # NET ROUTINES #########################################
 update_master.c - send new pool list
