@@ -15,9 +15,12 @@ Recipes compile certain files
 /mnt/usb/key - key file-recipes
 
 # POOL ROUTINES ########################################
-assim.c    - 
-verify.c   - 
+uniq.c     - verify file uniqness
+assim.c    - seperate metadata from block 
+verify.c   - sha pool
 
 # KEY ROUTINES #########################################
-io.c       - 
-build.c    - 
+io.c       - input output interface
+find.c     - interact with metadata to return blocks
+build.c    - use recipe to reconstruct file
+
