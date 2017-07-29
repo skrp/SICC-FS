@@ -2,8 +2,11 @@
 # SICC-FS      [ System In Complete Chaos File System ]
 
 Data blocks stripped of metadata
+  128k blocks named after sha
+
+Obfuscation
+  Relative to size of pool
 
 Recipes compile certain files
-
-Stronger the size of pool
+  Key files contained sequential block list
 
