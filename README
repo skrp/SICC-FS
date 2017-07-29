@@ -17,7 +17,7 @@ Recipes compile certain files
 # POOL ROUTINES ########################################
 uniq.c     - verify file uniqness
 assim.c    - seperate metadata from block 
-verify.c   - sha pool
+verify.c   - compare name to sha
 
 # KEY ROUTINES #########################################
 io.pl       - input output interface of metadata to return block lists
