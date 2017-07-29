@@ -14,10 +14,10 @@ Recipes compile certain files
 /pool/sea - data blocks
 /mnt/usb/key - key file-recipes
 
-# POOL ROUTINES #############################################
+# POOL ROUTINES ########################################
 assim.c    - 
-verify.c   -
+verify.c   - 
 
-# KEY ROUTINES ##############################################
+# KEY ROUTINES #########################################
 io.c       - 
-build.c    -
+build.c    - 
