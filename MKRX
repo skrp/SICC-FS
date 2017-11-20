@@ -16,6 +16,15 @@ _\\cibR punX//_
 |
 |
 |
-This manuscript holds the theoretical machine possible to archive an infinite amount of data in sane ways
+This manuscript details the machine of MKRX UNIX NETWORK
+This system connects many nodes thru encrypted tunnels
+
+MKRX archive law
+HIVE work processors
+
 The CORE of the machine is in unix network protocols
-Archive Tools are MKRX perl code
+Archive Tools are forged in perl code
+FreeBSD_10.3 is the unix kernel
+
+Hardware is detailed, explained & examples given
+ZFS raidz setups using SATA, PCI-SATA, USB, SAS
